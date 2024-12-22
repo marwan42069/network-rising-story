@@ -14,7 +14,7 @@ He used to work with his friends Yuri and Eaton at Volvo until he left to go a s
 
 * Eaton Beaver is 31 years old. He is a conspiracy theorist. He did not work on the same team as Richard and Yuri, but he befriended them after he noticed Richard making a subtle 4chan reference in a department presentation. He is a big proponent of nationalism and anti-globalism. He comes from a redneck background, but he has the sense to treat people as individuals, even if they come from groups of people he doesn't like. 
 
-Richard, Yuri, and Eaton live in Columbus, Ohio. They became drinking buddies while they all worked at Volvo before Richard left. Yuri and Eaton are less ambitious than Richard was at Volvo, but Richard stopped with the ambition for some time. They go out every Thursday night to different bars in the Columbus area and occasionally they go on weekend trips to Michigan to smoke a shit ton of weed. 
+Richard, Yuri, and Eaton live in Columbus, Ohio. They became drinking buddies while they all worked at Volvo before Richard left. Yuri and Eaton are less ambitious than Richard was at Volvo, but Richard stopped with the ambition for some time. They go out every Tuesday night to different bars in the Columbus area and occasionally they go on weekend trips to Michigan to smoke a shit ton of weed. 
 
 *Antagonist: an opposing force who stands in the way of your protagonist achieving success.*
 * Jacob Achter — CEO of Achter-Volgen Bank, he hates the ethos of decentralization and cryptocurrency but he'll gladly use those things to make money and he secretly owns like 10k Bitcoins. The guy who became Satoshi was Jacob's college roommate and he never cleaned up after himself, so that's why he hates the spirit of blockchain. 
