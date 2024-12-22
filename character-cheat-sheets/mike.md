@@ -1,21 +1,31 @@
 # Richard: Character cheat sheet
 **Name:** Michael Ropini
+
 **Story role:** Richard's employer and mentor but also an anti-villain
+
 **Story goal:** prevent biological death
+
 **Story motivation:** his parents died prematurely from stress and he doesn't want people to have to go through that
 
 ## THE BASICS
 **Full Name:** Michael Giacomo Ropini
+
 **Age:** 37
+
 **Place of birth:** San Francisco, CA
+
 **Nationality:** American
+
 **Ethnicity:** white -- Italian and French
+
 **Education:** PhD in biomedical engineering
+
 **Occupation:** startup CEO
+
 **Current residence:** ???
 
 ## PERSONALITY MATRIX
-Choose one option from each line to create a distinct and detailed personality for your characters:**
+**Choose one option from each line to create a distinct and detailed personality for your characters:**
 
 * **Selfish** or Altruistic?
 * **Aggressive** or Passive?
@@ -29,34 +39,57 @@ Choose one option from each line to create a distinct and detailed personality f
 
 ## APPEARANCE
 **Eyes:** brown
+
 **Hair:** shaved
+
 **Build:** lean and toned
+
 **Gait:** solid and purposeful
+
 **Mannerisms:** ???
+
 **Style:** very casual except for events and parties
+
 **Accessories:** a bunch of rubber bracelets, a really tacky ring on his right middle finger 
-**Health:** almost superhuman due to genetic experimentation and strict adherence to the Bryan Johnson Blueprint
+
+**Health:** almost superhuman due to genetic experimentation and strict adherence to the Bryan Johnson Blueprint (which will be called the Ryan Johnsson Methodology in the story)
+
 **Other distinguishing features:** ???
 
 ## COMMUNICATION
 **Manner of speech:** focused and precise
+
 **Accent:** American
+
 **Colloquialisms:** "e/acc", "blueprint", "protocol"
+
 **Body language:** aggressive
+
 **Vocabulary:** filled with technical jargon
+
 **Emotion:** 
 
 ## HISTORY
 **Hometown:** San Francisco, CA
+
 **Upbringing:** a little too autonomous due to his parents' very busy lifestyles 
+
 **Education:** PhD in biomedical engineering
+
 **Hobbies:** experimenting with unorthodox methods to increase his VO2 max
+
 **Dreams:** 
+
 **Heroes:** Bryan Johnson, Balaji Srinivasan
+
 **Regrets:** not trying harder to spend more time with his parents
+
 **Work history:** biomedical engineer at AstraZeneca, then left to start his own company
+
 **Major life events:** ???
+
 **Foundational memories:** watching his parents leave his high school senior awards ceremony due to work shit
+
 **Historical events experienced:** ???
 
 ## RELATIONSHIPS
@@ -94,9 +127,15 @@ Choose one option from each line to create a distinct and detailed personality f
 
 * What is your idea of perfect happiness?
 
+A world in which every human is exploring his fullest potential.
+
 * What is your greatest fear?
 
+The Happening will happen and destroy technological society a we know it.
+
 * What is the trait you most deplore in yourself?
+
+
 
 * What is the trait you most deplore in others?
 

@@ -6,12 +6,19 @@
 
 ## THE BASICS
 **Full Name:** Richard Vincent Cabeza
+
 **Age:** 28
+
 **Place of birth:** San Antonio, TX
+
 **Nationality:** American
+
 **Ethnicity:** Dominican
+
 **Education:** bachelor’s degree in management information systems
+
 **Occupation:** web developer
+
 **Current residence:** Columbus, OH
 
 ## PERSONALITY MATRIX
@@ -29,34 +36,57 @@ Choose one option from each line to create a distinct and detailed personality f
 
 ## APPEARANCE
 **Eyes:** brown
+
 **Hair:** black and slicked back
+
 **Build:** skinnyfat
+
 **Gait:** slow
+
 **Mannerisms:** 
+
 **Style:** very casual except for events and parties
+
 **Accessories:** a bunch of rubber bracelets, a really tacky ring on his right middle finger 
+
 **Health:** starts in below average health, gets healthier throughout
+
 **Other distinguishing features:** almost always wears aviator sunglasses
 
 ## COMMUNICATION
 **Manner of speech:** quick and erratic
+
 **Accent:** American
+
 **Colloquialisms:** "mamacita", also curses like a sailor
+
 **Body language:** relaxed
+
 **Vocabulary:** a combination of intellectual and ghetto
+
 **Emotion:** confident and optimistic
 
 ## HISTORY
 **Hometown:** San Antonio, TX
+
 **Upbringing:** relaxed and relatively autonomous 
+
 **Education:** bachelor’s degree in management information systems
+
 **Hobbies:** drinking with his friends Yuri Nader and Eaton Beaver — turns into studying decentralization, traveling around the world, and experimenting with drugs
+
 **Dreams:** having his own sovereignty and not answering to the powers that be
+
 **Heroes:** Satoshi Nakamoto, Vitalik Buterin, Yann Lecun, Andrew Ng
+
 **Regrets:** turning down a big promotion at Volvo when he used to work there
+
 **Work history:** web developer who was going to be fast tracked up the corporate ladder at Volvo, then moved to a local consulting shop
+
 **Major life events:** slamming his penis in the car door when he was eleven
+
 **Foundational memories:** trying mamajuana for the first time at age fourteen
+
 **Historical events experienced:** the birth of a nation
 
 ## RELATIONSHIPS
