@@ -1,38 +1,38 @@
 # Richard: Character cheat sheet
-**Name:** Michael Ropini
+**Name:** The Dragon King
 
-**Story role:** Richard's employer and mentor but also an anti-villain
+**Story role:** Foil to his boss Mike Ropini. He also teaches Richard some of the more hardcore developer shit he'll need to understand like cryptography and networking and distributed computing.
 
-**Story goal:** prevent biological death
+**Story goal:** building cool shit
 
-**Story motivation:** his parents died prematurely from stress and he doesn't want people to have to go through that
+**Story motivation:** he likes to build cool shit, but he decides to use his technology discovers that Mike is working with elites to procure unwilling human subjects for unchecked biological experimentation
 
 ## THE BASICS
-**Full Name:** Michael Giacomo Ropini
+**Full Name:** Long Dong Wang
 
-**Age:** 37
+**Age:** 32
 
-**Place of birth:** San Francisco, CA
+**Place of birth:** Leeds, United Kingdom
 
-**Nationality:** American
+**Nationality:** British
 
-**Ethnicity:** white -- Italian and French
+**Ethnicity:** Chinese
 
-**Education:** PhD in biomedical engineering
+**Education:** bachelor's degree in computer science and electrical engineering from MIT
 
-**Occupation:** startup CEO
+**Occupation:** lead engineer at Networkia, eventually Richard's CTO in his network state
 
-**Current residence:** ???
+**Current residence:** mostly splits his time between Singapore and Berlin, but visits Dallas occasionally for work
 
 ## PERSONALITY MATRIX
 **Choose one option from each line to create a distinct and detailed personality for your characters:**
 
-* **Selfish** or Altruistic?
-* **Aggressive** or Passive?
-* **Dishonourable** or Honourable?
+* Selfish or **Altruistic**?
+* Aggressive or **Passive**?
+* Dishonourable or **Honourable**?
 * Disordered or **Ordered**?
-* **Believer** or Sceptic?
-* **Fervent** or Restrained?
+* Believer or **Sceptic**?
+* Fervent or **Restrained**?
 * Apathetic or **Inquisitive**?
 
 *(credit to Simon K Jones from simonkjones.com)*
@@ -40,60 +40,58 @@
 ## APPEARANCE
 **Eyes:** brown
 
-**Hair:** shaved
+**Hair:** black
 
-**Build:** lean and toned
+**Build:** very thin looking but more powerful than he appears
 
-**Gait:** solid and purposeful
+**Gait:** slow and shuffly
 
 **Mannerisms:** ???
 
-**Style:** very casual except for events and parties
+**Style:** free t-shirts from conferences and cargo shorts most of the time
 
-**Accessories:** a bunch of rubber bracelets, a really tacky ring on his right middle finger 
+**Accessories:** occasional hats from conferences
 
-**Health:** almost superhuman due to genetic experimentation and strict adherence to the Bryan Johnson Blueprint (which will be called the Ryan Johnsson Methodology in the story)
+**Health:** excellent because he had been implementing the practices he learned working with Mike at Networkia
 
 **Other distinguishing features:** ???
 
 ## COMMUNICATION
-**Manner of speech:** focused and precise
+**Manner of speech:** soft tone but usually very dense with information
 
-**Accent:** American
+**Accent:** characteristic middle-class Northern English
 
-**Colloquialisms:** "e/acc", "blueprint", "methodology", "synergy"
+**Colloquialisms:** 
 
-**Body language:** aggressive
+**Body language:** small
 
 **Vocabulary:** filled with technical jargon
 
 **Emotion:** 
 
 ## HISTORY
-**Hometown:** San Francisco, CA
+**Hometown:** Newcastle Upon Tyne, United Kingdom
 
-**Upbringing:** a little too autonomous due to his parents' very busy lifestyles 
+**Upbringing:** his dad was a computer scientist working for Google
 
-**Education:** PhD in biomedical engineering
-
-**Hobbies:** experimenting with unorthodox methods to increase his VO2 max
+**Hobbies:** League of Legends
 
 **Dreams:** 
 
-**Heroes:** Bryan Johnson, Balaji Srinivasan
+**Heroes:** Edsger Dijkstra, Dennis Ritchie, Satoshi Nakamoto
 
-**Regrets:** not trying harder to spend more time with his parents
+**Regrets:** accidentally passing up the opportunity to be a founding engineer at Ethereum
 
-**Work history:** biomedical engineer at AstraZeneca, then left to start his own company
+**Work history:** 
 
 **Major life events:** ???
 
-**Foundational memories:** watching his parents leave his high school senior awards ceremony due to work shit
+**Foundational memories:** 
 
 **Historical events experienced:** ???
 
 ## RELATIONSHIPS
-**Economic status of family:** upper class, almost 1%
+**Economic status of family:** middle class
 **Social status of family:** 
 **Father(s):**
 **Mother(s):**
@@ -111,7 +109,7 @@
 **Goals:** 
 **Motivations:** 
 **Internal conflicts:** 
-**Weaknesses:** porn
+**Weaknesses:** 
 **Desires:** 
 **Flaws:**
 **Secrets:**
@@ -119,7 +117,7 @@
 **Fears:**
 **Accomplishments:**
 **Morality:**
-**Irritants:** fast food, western diseases
+**Irritants:** 
 **Legacy:** 
 
 ## The Proust Questionnaire
@@ -127,15 +125,9 @@
 
 * What is your idea of perfect happiness?
 
-A world in which every human is exploring his fullest potential.
-
 * What is your greatest fear?
 
-The Happening will happen and destroy technological society a we know it.
-
 * What is the trait you most deplore in yourself?
-
-
 
 * What is the trait you most deplore in others?
 

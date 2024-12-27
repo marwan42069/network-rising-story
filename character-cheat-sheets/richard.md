@@ -15,7 +15,7 @@
 
 **Ethnicity:** Dominican
 
-**Education:** bachelor’s degree in management information systems
+**Education:** bachelor’s degree in management information systems from the Peter E. Novak Institution of Sciences
 
 **Occupation:** web developer
 
