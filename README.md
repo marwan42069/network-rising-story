@@ -17,3 +17,7 @@ If you want to get a glimpse into what I'm envisioning for this story, you can c
 * [1. Betrayal](./1.betrayal.md)
 * [2. Descent [WIP]](./2.descent.md)
 * [3. Genesis [WIP]](./3.genesis.md)
+* [4. Crash [WIP]](./4.crash.md)
+* other chapters
+* [?-3. Intrigue [WIP]](./?-3.intrigue.md)
+* others
