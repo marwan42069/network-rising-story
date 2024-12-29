@@ -11,7 +11,7 @@ This story is for people who want to imagine the possibilities of how much bette
 I'm aiming to place the plot of the story in a reality that mirrors ours as much as possible because I want the reader to truly imagine similar events unfolding in real life. If you see anything outside of the plotline that appears to be factually incorrect in real life and that is not an obvious pun of someone or something in reality, please raise an issue and I will review and correct it. Examples can include things like an incorrect location of an establishment or the timing of a real-world event, so please let me know if you find any real-world inaccuracies!
 
 # How to read
-Most of the characters' names represent some kind of vulgar expression. I'll add more helpful guidance here later.
+If you want to get a glimpse into what I'm envisioning for this story, you can check out the [charater info](./character-info.md). It still requires weaving all of the ideas together, but hey, feel free to look at it what I'm thinking about.
 
 # Table of contents
 * [1. Betrayal](./1.betrayal.md)
