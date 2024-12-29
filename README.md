@@ -19,5 +19,5 @@ If you want to get a glimpse into what I'm envisioning for this story, you can c
 * [3. Genesis [WIP]](./3.genesis.md)
 * [4. Crash [WIP]](./4.crash.md)
 * other chapters
-* [?-3. Intrigue [WIP]](./?-3.intrigue.md)
+* [?-3. Intrigue [WIP]](./%3F-3.intrigue.md)
 * others
