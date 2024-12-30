@@ -20,6 +20,4 @@ If you want to get a glimpse into what I'm envisioning for this story, you can c
 * [2. Descent [WIP]](./2.descent.md)
 * [3. Curiosity [WIP]](./3.curiosity.md)
 * [4. Crash [WIP]](./4.crash.md)
-* other chapters
-* [?-3. Intrigue [WIP]](./%3F-3.intrigue.md)
-* others
+* More on the way!
