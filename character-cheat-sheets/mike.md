@@ -1,11 +1,11 @@
 # Richard: Character cheat sheet
 **Name:** Michael Ropini
 
-**Story role:** Richard's employer and mentor but also an anti-villain
+**Story role:** Richard's employer and mentor but also an anti-villain. Long and Richard eventually discover that he is procuring unwilling human subjects for his longevity experiments.
 
-**Story goal:** prevent biological death
+**Story goal:** prevent biological death by any means necessary
 
-**Story motivation:** his parents died prematurely from stress and he doesn't want people to have to go through that
+**Story motivation:** his parents died prematurely from stress and he doesn't want people to have to go through that. 
 
 ## THE BASICS
 **Full Name:** Michael Giacomo Ropini
@@ -22,7 +22,7 @@
 
 **Occupation:** startup CEO
 
-**Current residence:** ???
+**Current residence:** often works out of his office in Dallas but travels all over the world for conferences and business meetings and whatnot
 
 ## PERSONALITY MATRIX
 **Choose one option from each line to create a distinct and detailed personality for your characters:**
@@ -48,7 +48,7 @@
 
 **Mannerisms:** ???
 
-**Style:** very casual except for events and parties
+**Style:** business casual most often
 
 **Accessories:** a bunch of rubber bracelets, a really tacky ring on his right middle finger 
 

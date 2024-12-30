@@ -8,15 +8,17 @@ Throughout his journey, he learns from and works with technological acceleration
 # Author's notes
 This story is for people who want to imagine the possibilities of how much better we can build human organizational systems with modern technology. A prerequisite contempt for the current pillars of the Western establishment is helpful but not necessary for reading this book. 
 
-I'm aiming to place the plot of the story in a reality that mirrors ours as much as possible because I want the reader to truly imagine similar events unfolding in real life. If you see anything outside of the plotline that appears to be factually incorrect in real life and that is not an obvious pun of someone or something in reality, please raise an issue and I will review and correct it. Examples can include things like an incorrect location of an establishment or the timing of a real-world event, so please let me know if you find any real-world inaccuracies!
+I'm aiming to place the plot of the story in a reality that mirrors ours as much as possible because I want the reader to truly imagine similar events unfolding in real life. If you see anything outside of the plotline that appears to be factually incorrect in real life and that is not an obvious pun of someone or something in reality, please raise an issue and I will review and correct it. Examples can include things like an incorrect location of an establishment or the timing of a real-world event, so please let me know if you find real-world inaccuracies!
 
 # How to read
-If you want to get a glimpse into what I'm envisioning for this story, you can check out the [charater info](./character-info.md). It still requires weaving all of the ideas together, but hey, feel free to look at it what I'm thinking about.
+Any *italic* text not written at the top of each chapter denotes the thoughts of a character.
+
+If you want to get a glimpse into what I'm envisioning for this story, you can check out the [charater info](./character-info.md). It still requires me to weave all of the ideas together, but hey, feel free to look at what I'm thinking about.
 
 # Table of contents
 * [1. Betrayal](./1.betrayal.md)
 * [2. Descent [WIP]](./2.descent.md)
-* [3. Genesis [WIP]](./3.genesis.md)
+* [3. Curiosity [WIP]](./3.curiosity.md)
 * [4. Crash [WIP]](./4.crash.md)
 * other chapters
 * [?-3. Intrigue [WIP]](./%3F-3.intrigue.md)

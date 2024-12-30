@@ -5,7 +5,7 @@
 
 **Story goal:** building cool shit
 
-**Story motivation:** he likes to build cool shit, but he decides to use his technology discovers that Mike is working with elites to procure unwilling human subjects for unchecked biological experimentation
+**Story motivation:** he likes to build cool shit. He joined Mike out of intrigue with physical fitness and network states but he isn't nearly as gung ho as Mike is about human longevity. He eventually discovers that Mike is working with elites to procure unwilling human subjects for unchecked biological experimentation, so he tells Richard about it and eventually joins Richard to stop Mike.
 
 ## THE BASICS
 **Full Name:** Long Dong Wang
@@ -22,7 +22,7 @@
 
 **Occupation:** lead engineer at Networkia, eventually Richard's CTO in his network state
 
-**Current residence:** mostly splits his time between Singapore and Berlin, but visits Dallas occasionally for work
+**Current residence:** mostly splits his time between Singapore and Berlin, but visits Dallas occasionally for his work with Mike
 
 ## PERSONALITY MATRIX
 **Choose one option from each line to create a distinct and detailed personality for your characters:**
@@ -59,7 +59,7 @@
 ## COMMUNICATION
 **Manner of speech:** soft tone but usually very dense with information
 
-**Accent:** characteristic middle-class Northern English
+**Accent:** typical middle-class Northern English
 
 **Colloquialisms:** 
 
@@ -78,7 +78,7 @@
 
 **Dreams:** 
 
-**Heroes:** Edsger Dijkstra, Dennis Ritchie, Satoshi Nakamoto
+**Heroes:** Edsger Dijkstra, Dennis Ritchie, Satoshi Nakamoto, Gavin Wood (he thinks Vitalik is too showy)
 
 **Regrets:** accidentally passing up the opportunity to be a founding engineer at Ethereum
 

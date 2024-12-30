@@ -23,7 +23,7 @@ Richard, Yuri, and Eaton became friends while they all worked at Volvo before Ri
 ## Antagonists: an opposing force who stands in the way of your protagonist achieving success.
 * Jacob Achter — CEO of Achter-Volgen Bank, he hates the ethos of decentralization and cryptocurrency but he'll gladly use those things to make money and he secretly owns like ten thousand Bitcoins. The guy who became Satoshi was Jacob's college roommate and he never cleaned up after himself, so that's why he hates Bitcoin and blockchain in general. 
 
-* Ronald Thump — the president of the United States. His highly technical advisor Yi Long Ma alerts him to the threat that wealthy decentralized anti-establishment entities pose to the current worls order, so Thump orders the director of the FBI Christofer Gay to send their best subversion operative to fuck up Richard's grassroots movement.
+* Ronald Thump — the president of the United States. His highly technical advisor Yi Long Ma alerts him to the threat that wealthy decentralized anti-establishment entities pose to the current world order, so Thump orders the director of the FBI Christofer Gay to send their best subversion operative to fuck up Richard's grassroots movement.
 <!-- Antoine Gonzalez — the secretary general of the United Nations. We'll make him the ultimate bad guy advocating for the nation states to crush Richard's network state -->
 
 * 
