@@ -23,13 +23,11 @@ Richard, Yuri, and Eaton became friends while they all worked at Volvo before Ri
 ## Antagonists: an opposing force who stands in the way of your protagonist achieving success.
 * Jacob Achter — CEO of Achter-Volgen Bank, he hates the ethos of decentralization and cryptocurrency but he'll gladly use those things to make money and he secretly owns like ten thousand Bitcoins. The guy who became Satoshi was Jacob's college roommate and he never cleaned up after himself, so that's why he hates Bitcoin and blockchain in general. 
 
-* Ronald Thump — the president of the United States. His highly technical advisor Yi Long Ma alerts him to the threat that wealthy decentralized anti-establishment entities pose to the current world order, so Thump orders the director of the FBI Christofer Gay to send their best subversion operative to fuck up Richard's grassroots movement.
+* Ronald Thump — the president of the United States. His highly technical advisor Yilong Ma alerts him to the threat that wealthy decentralized anti-establishment entities pose to the current world order, so Thump orders the director of the FBI Christofer Gay to send their best subversion operative to fuck up Richard's grassroots movement.
 <!-- Antoine Gonzalez — the secretary general of the United Nations. We'll make him the ultimate bad guy advocating for the nation states to crush Richard's network state -->
 
-* 
-
 ## Confidante: someone who provides counsel and guidance during times of trouble; they are often privy to information that is unknown by others within the story.
-* Vi Braeter — the gender-nonbinary FBI operative sent to fuck with Richard's shit but it turns out they are actually receptive to his movement. 
+* Vi Braeter — the gender-nonbinary FBI operative sent to fuck with Richard's shit. After Richard thwarts and evades several subversion attempts, they start to come about to Richard's movement. They eventually become a double agent reporting meaningless information back to the FBI while covertly supporting Richard. 
 
 ## Anti-villain: someone who possesses qualities that make them morally ambiguous or questionable; they may seem like a good person, but over time their true motives and intentions are leaked.
 * Mike Ropini — founder of Networkia. His parents died relatively young, so he wants to build a jurisdiction in which he's free to explore the limits of life longevity without answering to an regulatory entity. He adheres to the e/acc ideology but is more interested than anything in preventing biological death. Some of his justifications include expanding the scope of life and allowing people to recover from past mistakes and all. He has to actually make sense. 
