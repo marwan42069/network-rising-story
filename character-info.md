@@ -18,7 +18,7 @@ He used to work with his friends Yuri and Eaton at Volvo until he left to go a s
 
 Richard, Yuri, and Eaton became friends while they all worked at Volvo before Richard left. Yuri and Eaton are less ambitious than Richard was at Volvo, but Richard stopped with the ambition for some time. They go out every Tuesday night to different bars in the Columbus area and occasionally they go on weekend trips to Michigan to smoke a shit ton of weed. 
 
-*Author's note: I just realized I might accidentally be setting up Eaton and Yuri to be wasted potential. I feel like I wanna write them in to join Richard in his network state ambitions after he realizes some success, because they too have sharp pain points with the establishment but they don't have the courage to join a fledgling organization, hence why they stayed at Volvo. We'll see about this*
+*Author's note: I just realized I might be setting up Eaton and Yuri to be wasted potential. I feel like I wanna write them in to join Richard in his network state ambitions after he realizes some success, because they too have sharp pain points with the establishment but they don't have the courage to join a fledgling organization, hence why they stayed at Volvo. We'll see about this.*
 
 ## Antagonists: an opposing force who stands in the way of your protagonist achieving success.
 * Jacob Achter — CEO of Achter-Volgen Bank, he hates the ethos of decentralization and cryptocurrency but he'll gladly use those things to make money and he secretly owns like ten thousand Bitcoins. The guy who became Satoshi was Jacob's college roommate and he never cleaned up after himself, so that's why he hates Bitcoin and blockchain in general. 

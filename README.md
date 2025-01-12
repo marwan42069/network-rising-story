@@ -13,11 +13,14 @@ I'm aiming to place the plot of the story in a reality that mirrors ours as much
 # How to read
 Any *italic* text not written at the top of each chapter denotes the thoughts of a character.
 
+I might also have "hover text" for certain slang words that might not make sense to the reader. If you hover over [this](## "you will see alternate text to explain this term").
+
 If you want to get a glimpse into what I'm envisioning for this story, you can check out the [charater info](./character-info.md). It still requires me to weave all of the ideas together, but hey, feel free to look at what I'm thinking about.
 
 # Table of contents
 * [1. Betrayal](./1.betrayal.md)
-* [2. Descent [WIP]](./2.descent.md)
-* [3. Curiosity [WIP]](./3.curiosity.md)
+* [2. Descent](./2.descent.md)
+* [3. Curiosity](./3.curiosity.md)
 * [4. Crash [WIP]](./4.crash.md)
+* []
 * More on the way!
